@@ -1,0 +1,18 @@
+Package: mypackage
+Type: Package
+Title: Customised greetings from me!
+Version: 0.1.0
+Authors@R: person("Anna", "Krystalli", 
+  email = "annakrystalli@googlemail.com", 
+  role = c("aut", "cre"))
+Description: Prints a customised greeting from myself, 
+    delivered by a friend.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    cowsay
+Suggests: 
+    testthat
+Date: 2019-04-10
