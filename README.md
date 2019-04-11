@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# mypackage-demo
+# mypackage
 
 <!-- badges: start -->
 
@@ -14,7 +14,7 @@ The goal of mypackage is to print a personalised greeting from me\!
 You can install the development version of mypackage from GitHub with:
 
 ``` r
-devtools::install_github("annakrystalli/mypackage-demo")
+devtools::install_github("annakrystalli/mypackage")
 ```
 
 ## Example
