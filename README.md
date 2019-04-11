@@ -14,7 +14,7 @@ The goal of mypackage is to print a personalised greeting from me\!
 You can install the development version of mypackage from GitHub with:
 
 ``` r
-devtools::install_github("annakrystalli/mypackage")
+devtools::install_github("annakrystalli/mypackage-demo")
 ```
 
 ## Example
