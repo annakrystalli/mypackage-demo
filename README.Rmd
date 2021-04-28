@@ -15,6 +15,7 @@ knitr::opts_chunk$set(
 # mypackage
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/annakrystalli/mypackage-demo/workflows/R-CMD-check/badge.svg)](https://github.com/annakrystalli/mypackage-demo/actions)
 <!-- badges: end -->
 
 The goal of mypackage is to print a personalised greeting from me!
